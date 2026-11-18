@@ -1,4 +1,4 @@
-Urban.Grocers – Testes de API
+Projeto - Urban.Grocers – Testes de API
 
 1. Sobre o projeto: Projeto desenvolvido durante a formação em QA pela TripleTen, com foco nos testes de API da aplicação Urban.Grocers.
 
